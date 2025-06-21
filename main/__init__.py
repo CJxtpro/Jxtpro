@@ -9,8 +9,8 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 # variables
 API_ID = 22589525
 API_HASH = "2dd2931e17ae61c8680b6cdb6a9edc74"
-BOT_TOKEN = "6255680130:AAFWAj9QPUNAqDL5G0s3GLap4b3BUkNs45U"
-SESSION = "BQFYsFUAlfvTHAZNW4YLcd9XJpYWfFjHzbJ9-ncMAWjGeMEzWLaR7t3XUq9U2acOojxF5txlS-KW-rgw-HYbTGt2HYCzlGGIESrHR2Qf9TSs4VaO97Ch_ko93eGjAWy8z7ImMNbAAp_p6O9mtY-ZNheExxyHNeusKEmWlZd6zVeR-C65VCy-l-YvndM7fabHYQHyq0dLfsiGbnIR3BoVSElS-FxfHklMkl5CCh2QXiwCRL3Cz7V53gA1lH7yq_2otlNzDJlOooDu28RxbnM18Kp94En_ICPqXFm_p7-dz3vsR7_pvYiWpuKtvvLryDP5gNHxbsvKt6XqGkL83SSDyQTNyLE4dQAAAAAjYvVVAA"
+BOT_TOKEN = ""
+SESSION = ""
 FORCESUB = "Allbothub"
 AUTH = 593687893
 
